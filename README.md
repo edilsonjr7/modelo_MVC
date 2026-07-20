@@ -1,6 +1,6 @@
-# 🎬 Sistema de Cadastro de Filmes - Java MVC
+#  Sistema de Cadastro de Filmes - Java MVC
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Este projeto consiste em um sistema de cadastro de filmes desenvolvido em Java utilizando o padrão de arquitetura **MVC (Model-View-Controller)**.
 
@@ -8,7 +8,7 @@ O principal objetivo foi praticar conceitos fundamentais de Programação Orient
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Cadastro de filmes
 - Listagem de todos os filmes
@@ -20,7 +20,7 @@ O principal objetivo foi praticar conceitos fundamentais de Programação Orient
 
 ---
 
-## 🏗️ Arquitetura
+##  Arquitetura
 
 O projeto foi estruturado seguindo o padrão MVC.
 
@@ -63,7 +63,7 @@ modelo_MVC
 
 ---
 
-## 📖 Conceitos praticados
+##  Conceitos praticados
 
 - Separação de responsabilidades
 - Encapsulamento
@@ -75,7 +75,7 @@ modelo_MVC
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 1. Clone o repositório
 
@@ -83,9 +83,7 @@ modelo_MVC
 git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
 ```
 
-2. Abra o projeto em sua IDE Java preferida.
-
-3. Execute a classe:
+2. Execute a classe:
 
 ```
 App.java
@@ -93,7 +91,7 @@ App.java
 
 ---
 
-## 📚 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados conceitos importantes para aplicações Java, como:
 
@@ -106,16 +104,3 @@ Durante o desenvolvimento deste projeto foram praticados conceitos importantes p
 Esses conceitos servem como base para aplicações mais robustas utilizando frameworks como Spring Boot.
 
 ---
-
-## 👨‍💻 Autor
-
-**Edilson Junior**
-
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Desenvolvedor Backend Java
-
-LinkedIn:
-*(adicione aqui o link do seu perfil)*
-
-GitHub:
-*(adicione aqui o link do seu GitHub)*
